@@ -18,3 +18,44 @@ function ImprimirNombreEnMayusculas(persona) {
 
 ImprimirNombreEnMayusculas(angie);
 ImprimirNombreEnMayusculas(dario);
+
+/* var angie = {
+	nombre: "Angie",
+	edad: 22
+};
+
+var dario = {
+	nombre: "Dario",
+	edad: 27
+};
+
+function ImprimirNombreYEdad(persona) {
+	var { nombre } = persona;
+	var { edad } = persona;
+	console.log(`Hola, me llamo ${nombre} y tengo ${edad} años.`);
+}
+
+ImprimirNombreYEdad(angie);
+ImprimirNombreYEdad(dario);
+RETO EJEMPLO #1
+ 
+
+var angie = {
+	nombre: "Angie",
+	edad: 22
+};
+
+var dario = {
+	nombre: "Dario",
+	edad: 27
+};
+
+function ImprimirNombreYEdad(persona) {
+	var nombre = persona.nombre;
+	var edad = persona.edad;
+	console.log(`Hola, me llamo ${nombre} y tengo ${edad} años.`);
+}
+
+ImprimirNombreYEdad(angie);
+ImprimirNombreYEdad(dario);
+RETO EJEMPLO #2  */
